@@ -37,3 +37,5 @@
 lista = [1, 'Berta', 3,4,5, 'kot', -10.75, 3.14]
 lista.insert(2,'zebra')
 print(lista)
+lista.pop()
+print(lista)
